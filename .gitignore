@@ -73,3 +73,8 @@ docs/_build/
 logs
 etc/persist/
 nio.err
+
+# rsa stuff
+*.cer
+*.pfx
+*.pem

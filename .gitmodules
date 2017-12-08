@@ -31,3 +31,9 @@
 [submodule "blocks/join"]
 	path = blocks/join
 	url = git://github.com/nio-blocks/join.git
+[submodule "blocks/stripe"]
+	path = blocks/stripe
+	url = git@github.com:cowleyk/stripe.git
+[submodule "blocks/xero"]
+	path = blocks/xero
+	url = git@github.com:cowleyk/xero.git
